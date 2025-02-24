@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|c:\\users\\advan\\source\\repos\\currency converter\\currency converter\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\currency converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\currency converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\currency converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\currency converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|C:\\Users\\Advan\\source\\repos\\Currency Converter\\currency converter\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48604CC-0A7E-478D-B660-4CCD62D4533A}|Currency Converter\\Currency Converter.csproj|solutionrelative:currency converter\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Currency Converter.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Currency Converter.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Currency Converter.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Currency Converter.cs",
+              "RelativeToolTip": "Currency Converter\\Currency Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:00:07.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency Converter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Currency Converter.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Currency Converter.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Currency Converter.cs [Design]",
+              "RelativeToolTip": "Currency Converter\\Currency Converter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:00:03.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Program.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Program.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Program.cs",
+              "RelativeToolTip": "Currency Converter\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T02:38:53.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Login.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Login.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Login.cs",
+              "RelativeToolTip": "Currency Converter\\Login.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwFUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:31:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Login.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Login.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Login.cs [Design]",
+              "RelativeToolTip": "Currency Converter\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:31:19.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Register.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Register.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Register.cs",
+              "RelativeToolTip": "Currency Converter\\Register.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAWwJUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:26:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Register.cs",
+              "RelativeDocumentMoniker": "Currency Converter\\Register.cs",
+              "ToolTip": "C:\\Users\\Advan\\source\\repos\\Currency Converter\\Currency Converter\\Register.cs [Design]",
+              "RelativeToolTip": "Currency Converter\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:23:25.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

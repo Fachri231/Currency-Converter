@@ -1,0 +1,14 @@
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\bin\Debug\Guna.UI2.dll
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Login.resources
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency.F9AF2F12.Up2Date
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Currency_Converter.resources
+C:\Users\Advan\source\repos\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Register.resources
